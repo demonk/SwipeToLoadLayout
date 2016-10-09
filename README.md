@@ -53,6 +53,9 @@ dependencies {
 Look over [Quick Setup](https://github.com/Aspsine/SwipeToLoadLayout/wiki/Quick-Setup) for more details.
 You can find more customized header view and footer view in the demo app.
 
+##NOTE
+![process](/SwipeToLoadLayout.png)
+
 ##Thanks
 - Google SwipeRefreshLayout
 - [liaohuqiu android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
@@ -79,4 +82,5 @@ You can find more customized header view and footer view in the demo app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
 
